@@ -1,7 +1,7 @@
 # Google-Cybersecurity-
 This repository contains Certificates and Portfolio ready projects from Google Cybersecurity Professional Certification authorized by GOOGLE and offered through COURSERA.
 
-This is a specialization containing 8 courses, which are as follows:
+# This is a specialization containing 8 courses, which are as follows:
 	Course 1 Foundations of Cybersecurity
 	Course 2 Play It Safe: Manage Security Risks
 	Course 3 Connect and Protect: Networks and Network Security
@@ -12,7 +12,7 @@ This is a specialization containing 8 courses, which are as follows:
 	Course 8 Put It to Work: Prepare for Cybersecurity Jobs
 
 
-Skills acquired upon completing the Google Cybersecurity Certificate:
+# Skills acquired upon completing the Google Cybersecurity Certificate:
 	● Understand the importance of cybersecurity practices and their impact for organizations.
 	● Identify common risks, threats, and vulnerabilities, as well as techniques to mitigate them.
 	● Gain hands-on experience with Python, Linux, and SQL.
@@ -20,7 +20,7 @@ Skills acquired upon completing the Google Cybersecurity Certificate:
 	Information Event Management (SIEM) tools, Intrusion Detection Systems (IDS), NIST Cybersecurity Framework 
 	and network protocol analyzers (packet sniffing)
 
-THE GOOGLE CYBERSECURITY CERTIFICATE PREPARES LEARNERS FOR IN-DEMAND JOBS SUCH AS:
+# THE GOOGLE CYBERSECURITY CERTIFICATE PREPARES LEARNERS FOR IN-DEMAND JOBS SUCH AS:
 	● Cybersecurity analyst
 	● Security analyst
 	● Security operations center (SOC) analyst
